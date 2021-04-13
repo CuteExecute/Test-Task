@@ -1,0 +1,9 @@
+C:\Users\Spark\source\repos\Calculating_the_area_of_shapes\Calculating_the_area_of_shapes\bin\Debug\netcoreapp3.1\Calculating_the_area_of_shapes.deps.json
+C:\Users\Spark\source\repos\Calculating_the_area_of_shapes\Calculating_the_area_of_shapes\bin\Debug\netcoreapp3.1\Calculating_the_area_of_shapes.dll
+C:\Users\Spark\source\repos\Calculating_the_area_of_shapes\Calculating_the_area_of_shapes\bin\Debug\netcoreapp3.1\Calculating_the_area_of_shapes.pdb
+C:\Users\Spark\source\repos\Calculating_the_area_of_shapes\Calculating_the_area_of_shapes\obj\Debug\netcoreapp3.1\Calculating_the_area_of_shapes.csprojAssemblyReference.cache
+C:\Users\Spark\source\repos\Calculating_the_area_of_shapes\Calculating_the_area_of_shapes\obj\Debug\netcoreapp3.1\Calculating_the_area_of_shapes.AssemblyInfoInputs.cache
+C:\Users\Spark\source\repos\Calculating_the_area_of_shapes\Calculating_the_area_of_shapes\obj\Debug\netcoreapp3.1\Calculating_the_area_of_shapes.AssemblyInfo.cs
+C:\Users\Spark\source\repos\Calculating_the_area_of_shapes\Calculating_the_area_of_shapes\obj\Debug\netcoreapp3.1\Calculating_the_area_of_shapes.csproj.CoreCompileInputs.cache
+C:\Users\Spark\source\repos\Calculating_the_area_of_shapes\Calculating_the_area_of_shapes\obj\Debug\netcoreapp3.1\Calculating_the_area_of_shapes.dll
+C:\Users\Spark\source\repos\Calculating_the_area_of_shapes\Calculating_the_area_of_shapes\obj\Debug\netcoreapp3.1\Calculating_the_area_of_shapes.pdb
